@@ -1,3 +1,48 @@
 *{
     margin: 0;
+    text-decoration: none;
+    color: black;
+    font-family:fantasy ;
+    font-size:large;
+}
+
+.head{
+    height: 10vh;
+    width: 100% ;
+    background-color: RGB(202, 60, 36);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header1{
+    justify-content: flex-start;
+    width: 20vh;
+}
+
+.header2{
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    width: 50vh ;
+    align-items: center;
+}
+
+.header3{
+   justify-content: flex-end; 
+   width: 10vh;
+}
+
+.link3{
+    
+}
+
+.discordphoto{
+    height: 5vh;
+    width: 5vh;
+}
+
+.logo{
+    width: 15vh;
+    height: 8vh;
 }
